@@ -7,7 +7,7 @@ class Dog # instantiates a new dog
   end
 
   def bark
-    
+    puts "woof!"
   end
 
 end
