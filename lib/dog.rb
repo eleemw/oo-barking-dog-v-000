@@ -6,4 +6,8 @@ class Dog # instantiates a new dog
     @name
   end
 
+  def bark
+
+  end  
+
 end
