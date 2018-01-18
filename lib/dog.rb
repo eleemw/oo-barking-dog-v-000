@@ -1,4 +1,4 @@
 # Your code goes here!
-class Dog
+class Dog # instantiates a new dog
 
-end  
+end
